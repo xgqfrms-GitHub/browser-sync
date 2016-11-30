@@ -15,3 +15,4 @@ browser-sync start --server --files "./*.html"
 browser-sync start --server --files "./*.*"
 ``` 
 
+![browsersync & node.js & static html.png](browsersync & node.js & static html.png)
