@@ -21,6 +21,23 @@ $ browser-sync start --server --files "./*.css"
 
 ![browsersync & node.js & static html.png](browsersync & node.js & static html.png)
 
+# sass & gulp & browser-sync
+
+
+```sh
+
+$ sass --watch src:dist
+
+# root path
+
+$ browser-sync start --server --files "./**/*.*"
+
+
+$ browser-sync start --server --files "./src/**/*.*"
+
+``` 
+
+
 ![](https://raw.githubusercontent.com/xgqfrms-GitHub/browser-sync/master/browsersync%20%26%20node.js%20%26%20static%20html.png)
 
 ************************************************************************************************
