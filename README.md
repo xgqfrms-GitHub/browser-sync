@@ -10,13 +10,18 @@ https://www.browsersync.io/
 $ npm install -g browser-sync
 
 # step2
-browser-sync start --server --files "./*.html"
+$ browser-sync start --server --files "./*.html"
 
-browser-sync start --server --files "./*.*"
+$ browser-sync start --server --files "./*.*"
+
+$ browser-sync start --server --files "./*.js"
+
+$ browser-sync start --server --files "./*.css"
 ``` 
 
 ![browsersync & node.js & static html.png](browsersync & node.js & static html.png)
 
+![](https://raw.githubusercontent.com/xgqfrms-GitHub/browser-sync/master/browsersync%20%26%20node.js%20%26%20static%20html.png)
 
 ************************************************************************************************
 
