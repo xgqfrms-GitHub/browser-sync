@@ -9,6 +9,9 @@ https://www.browsersync.io/
     
 # step 1
 $ npm install -g browser-sync
+# OR
+$ npm i -g browser-sync
+
 
 # step 2
 $ cd build
